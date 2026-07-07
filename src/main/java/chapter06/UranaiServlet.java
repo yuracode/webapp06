@@ -1,4 +1,4 @@
-package chapter03;
+package chapter06;
 
 import java.io.IOException;
 import java.io.PrintWriter;

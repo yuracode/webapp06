@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>フォワードの実験</h1>
-    <p>このページは、FormServletからフォワードされたページです。</p>
+    <p>このページは、ForwardServlet からフォワードされたページです。</p>
 </body>
 </html>
